@@ -6,3 +6,5 @@ opt for the subject out of the given options and further dig into the subject of
 their choice.
 Front-end implemented using HTML, CSS and Bootstrap.
 Back-end development done using Node.js, Express, MongoDB and Passport.js.
+
+Author- Sayani Das
